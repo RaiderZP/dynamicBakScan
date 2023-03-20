@@ -19,7 +19,7 @@ public class BurpExtender implements IBurpExtender, IScannerCheck, ITab {
 
     private PrintWriter stdout;
     private PrintWriter stderr;
-    private String ExtenderName = "bakDetect";
+    private String ExtenderName = "dynamicBakScan";
 
     private JPanel jPanel1;
     private JTabbedPane sunTabs;
